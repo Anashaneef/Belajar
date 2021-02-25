@@ -1,0 +1,2 @@
+# Belajar
+Latihan pertama github
